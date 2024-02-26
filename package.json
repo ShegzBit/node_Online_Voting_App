@@ -1,0 +1,15 @@
+{
+  "name": "node_online_voting_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Feranmi Awotubo",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^5.0.5",
+    "uuid": "^9.0.1"
+  }
+}
